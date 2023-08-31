@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES6"
+  },
+  //look for all of the files under the src or source folder
+  "include": ["src/**/*"]
+}
